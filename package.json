@@ -1,5 +1,5 @@
 {
-  "name": "dependency-analysis-webpack-plugin",
+  "name": "dependence-analysis-webpack-plugin",
   "version": "0.0.1",
   "description": "dependency analysis and remove",
   "main": "index.js",
