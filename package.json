@@ -1,0 +1,9 @@
+{
+  "name": "dependency-analysis-webpack-plugin",
+  "version": "0.0.1",
+  "description": "dependency analysis and remove",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
